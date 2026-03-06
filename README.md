@@ -1,0 +1,1 @@
+Pretty much the code is written by claude but most of logic of the app i.e. like how it should detect any windows how it should filter windows which one to tile which one is not etc. was build by me after just zillions of trail error learning.
